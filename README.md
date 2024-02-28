@@ -7,7 +7,7 @@ A brief description of what this project does and who it's for
 ## Authors
 
 - Cognitive Class AI
-
+- Svitlana Kramar
 
 
 ## 🚀 Mentee Info
@@ -18,4 +18,5 @@ Program : IBM Advanced AI
 
 ## Tech Stack
 - Python
+
 
