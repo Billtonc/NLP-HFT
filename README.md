@@ -1,7 +1,7 @@
 
 # Natural Language Processing with Hugging Face Transformers
 
-A brief description of what this project does and who it's for
+Mentee Assignment from IBM Advance AI @ Infinite Learning Course completion of Natural Language Processing with Hugging Face Transformers from CognitiveClass.ai
 
 
 ## Authors
@@ -18,5 +18,4 @@ Program : IBM Advanced AI
 
 ## Tech Stack
 - Python
-
 
